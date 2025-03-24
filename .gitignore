@@ -1,0 +1,16 @@
+*.exe
+*.zip
+*.mp4
+*.jpg
+*.png
+*.pdf
+*.doc
+*.docx
+*.xls
+*.json
+*.mp3
+__pycache__/
+*.pyc
+Telegram Desktop/
+Family app/
+TS Recommended Apps/
